@@ -7,8 +7,6 @@ clc, clearvars;
 %  rho = fluid density [kg/m^3]
 %  mu = fluid viscosity [Pa.s] or [kg/m/s]
 
-clc, clearvars;
-
 % elements of the row vector are in order: D, V, rho and mu
 x = [0.02, 0.5, 1000, 8.9e-4];
 
